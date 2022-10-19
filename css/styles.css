@@ -1,0 +1,24 @@
+/* Color Palette https://colorhunt.co/palette/222831393e4600adb5eeeeee */
+body {
+  background-color: #EEEEEE;
+  font-family: 'Poppins', sans-serif;
+}
+hr {
+  border-style: none;
+  border-top: 1px solid #393E46;
+}
+h1 {
+  color: #222831;
+}
+
+img:hover {
+  border-radius: 100%;
+}
+
+.books {
+  color: #00ADB5;
+}
+
+#products {
+  color: #393E46;
+}
