@@ -2,13 +2,18 @@
 body {
   background-color: #EEEEEE;
   font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+div {
+  background-color: #EEEEEE;
+}
+h1 {
+  color: #222831;
+  margin: 0;
 }
 hr {
   border-style: none;
   border-top: 1px solid #393E46;
-}
-h1 {
-  color: #222831;
 }
 
 img:hover {
