@@ -5,10 +5,16 @@ body {
   margin: 0;
   text-align: center;
 }
-h1 {
+.heading {
+  padding-top: 150px; 
+}
+.heading h1 {
   color: #222831;
-  width: 10%;
   margin: 0 auto;
+  font-size: 4rem;
+}
+.heading p {
+  font-size: 2rem;
 }
 hr {
   border-style: none;
