@@ -6,7 +6,7 @@ body {
   text-align: center;
 }
 .heading {
-  padding-top: 150px; 
+  padding-top: 150px;
 }
 .heading h1 {
   color: #222831;
@@ -31,6 +31,22 @@ img:hover {
 .heading {
   background-color: #EEEEEE;
   height: 700px;
+}
+.experience table {
+  margin: auto;
+}
+.footer {
+  background-color: #222831;
+  color: white;
+  margin: 0;
+  padding: 50px 20px;
+}
+.footer p {
+  margin: 20px 0;
+}
+.footer a {
+  color: white;
+  margin: 10px 15px;
 }
 #products {
   color: #393E46;
