@@ -21,10 +21,6 @@ hr {
   border-top: 1px solid #393E46;
 }
 
-img:hover {
-  border-radius: 100%;
-}
-
 .books {
   color: #00ADB5;
 }
